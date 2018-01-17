@@ -1,4 +1,4 @@
-package org.definitylabs.flue2ent.demo.page;
+package org.definitylabs.flue2ent.demo.page.partial;
 
 import org.definitylabs.flue2ent.demo.element.PageFooter;
 import org.definitylabs.flue2ent.demo.element.PageHeader;

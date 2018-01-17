@@ -1,5 +1,6 @@
 package org.definitylabs.flue2ent.demo.page;
 
+import org.definitylabs.flue2ent.demo.page.partial.Page;
 import org.definitylabs.flue2ent.demo.page.partial.WithContent;
 import org.definitylabs.flue2ent.demo.page.partial.WithSidebar;
 import org.definitylabs.flue2ent.demo.page.partial.WithTitle;

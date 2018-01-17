@@ -1,6 +1,7 @@
 package org.definitylabs.flue2ent.demo.page;
 
 import org.definitylabs.flue2ent.demo.element.Product;
+import org.definitylabs.flue2ent.demo.page.partial.Page;
 import org.definitylabs.flue2ent.demo.page.partial.WithTitle;
 import org.definitylabs.flue2ent.element.FindElementBy;
 
