@@ -19,7 +19,7 @@ public abstract class AbstractWebsiteTest {
 
     @AfterClass
     public static void afterAll() {
-//        driver.close();
+        driver.close();
     }
 
 }
